@@ -1,0 +1,16 @@
+program sumary arr:array [5] of integer;sum:integer;a:integer;
+                 begin 
+                             begin 
+                                       arr[0]:=2;
+                                       arr[1]:=7;
+                                       arr[2]:=4;
+                                       arr[3]:=3;
+                                       arr[4]:=2;
+                                       a:=0
+                            end;
+                            while a<5 do 
+                                       begin 
+                                                sum:=sum+arr[a];
+                                                a:=a+1 
+                                       end 
+                  end

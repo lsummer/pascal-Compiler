@@ -1,0 +1,11 @@
+program sumary sum:integer;a:integer;
+    begin 
+                             begin 
+                                       
+                                       a:=0                            end;
+                            while a<5 do 
+                                       begin 
+                                                sum:=sum+a;
+                                                a:=a+1 
+                                       end 
+                  end
